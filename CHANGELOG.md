@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.42.1](https://github.com/aibtcdev/skills/compare/skills-v0.42.0...skills-v0.42.1) (2026-06-04)
+
+
+### Bug Fixes
+
+* **bitflow-hodlmm-deposit:** allow first-time deposit by handling BFF user-bins 404 ([#397](https://github.com/aibtcdev/skills/issues/397)) ([6e1b320](https://github.com/aibtcdev/skills/commit/6e1b3203c3ba0c5aa57142fb661d016d771d099d))
+
 ## [0.42.0](https://github.com/aibtcdev/skills/compare/skills-v0.41.0...skills-v0.42.0) (2026-05-11)
 
 
